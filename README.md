@@ -6,4 +6,6 @@ In this section, i am try to include some examples to explain the Git
 
 try second time in the VS Code
 
-### New Section to reset
+### New Section to check branch addNew
+
+now we write some thing to evalue the branch
